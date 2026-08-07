@@ -71,17 +71,8 @@ DAY_NAMES = {
 # =========================================================================
 @st.cache_resource
 def load_model(model_path):
-    """Load the trained pipeline.
-
-    joblib.load reads files written by both joblib.dump and pickle.dump,
-    so the pickle fallback is only for unusual cases.
-    """
-    try:
-        return joblib.load(model_path)
-    except Exception:
-        import pickle
-        with open(model_path, "rb") as file_handle:
-            return pickle.load(file_handle)
+    """Load the trained pipeline."""
+    return joblib.load(model_path)
 
 
 @st.cache_data
