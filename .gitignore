@@ -219,6 +219,7 @@ __marimo__/
 
 data/
 *.csv
+!Streamlit_app/route_duration.csv
 *.parquet
 *.zip
 .Rhistory
