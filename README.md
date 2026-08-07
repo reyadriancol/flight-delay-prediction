@@ -7,7 +7,7 @@ only information available at the time the flight is scheduled.
 actually arrived late — against a naive baseline that catches none while
 scoring 78% accuracy.
 
-**[Live demo →](FILL: your Streamlit Community Cloud URL)**
+**[Live demo →](https://colongon-flight-delay.streamlit.app/)**
 
 ---
 

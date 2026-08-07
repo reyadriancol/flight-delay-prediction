@@ -65,8 +65,6 @@ with right_column:
         "Data & Analytics Professional"
     )
 
-    st.write("📍 Uruma City, Okinawa, Japan 904-1111")
-
     st.markdown(
         """
                 ✉️ [reyadrian.colongon@gmail.com](mailto:reyadrian.colongon@gmail.com)
