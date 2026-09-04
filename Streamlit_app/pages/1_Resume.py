@@ -106,7 +106,7 @@ st.header("Education")
 
 st.subheader("Master of Science in Data Science")
 st.write("**Eastern University**")
-st.write("In Progress • Expected August 2026")
+st.write("GPA: 3.867 • 2026")
 
 st.markdown("""
 **Areas of Study**
@@ -123,9 +123,30 @@ st.subheader("Bachelor of Science in Business Analytics")
 st.write("**Embry-Riddle Aeronautical University**")
 st.write("Cum Laude • 2025")
 
+st.markdown("""
+**Areas of Study**
+
+- Business analytics
+- Data visualization
+- Statistical analysis
+- Database concepts (SQL)
+- Business intelligence and reporting
+- Data-driven decision making
+""")
+
 st.subheader("Aerospace Ground Equipment Technical Certification")
 st.write("**United States Air Force**")
 st.write("2011")
+
+st.markdown("""
+**Training Focus**
+
+- Ground support equipment maintenance
+- Electro-mechanical systems troubleshooting
+- Technical inspection and diagnostics
+- Use of technical orders and documentation
+- Compliance with safety and quality standards
+""")
 
 
 st.divider()
