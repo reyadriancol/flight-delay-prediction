@@ -81,8 +81,8 @@ st.divider()
 st.header("Professional Summary")
 
 st.write("""
-Analytics-focused professional with a B.S. in Business Analytics and an
-in-progress M.S. in Data Science, backed by more than 14 years of experience
+Analytics-focused professional with a B.S. in Business Analytics (cum laude)
+and an M.S. in Data Science (GPA 3.867), backed by 15 years of experience
 supporting mission-critical defense operations in Okinawa, Japan.
 
 Skilled in analyzing operational and maintenance data to diagnose problems,
