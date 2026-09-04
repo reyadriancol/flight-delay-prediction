@@ -55,7 +55,7 @@ with left_column:
     else:
         st.info(
             "Add your photo as "
-            "`Streamlit_app/portfolio_pic.jpg`."
+            "`Streamlit_app/portfolio_pic.jpeg`."
         )
 
 with right_column:
