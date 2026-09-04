@@ -23,7 +23,7 @@ st.divider()
 
 st.header("About Me")
 st.write("""
-My name is Rey Colongon, and I am currently pursuing a Master of Science in Data Science at Eastern University. My interest in data science comes from enjoying problem-solving and discovering meaningful patterns in data. I enjoy building predictive models, learning new technologies, and continuously improving my analytical and programming skills.
+My name is Rey Colongon, and I hold a Master of Science in Data Science from Eastern University. My interest in data science comes from enjoying problem-solving and discovering meaningful patterns in data. I enjoy building predictive models, learning new technologies, and continuously improving my analytical and programming skills.
 
 I have lived and worked in Okinawa, Japan for seven years, supporting aviation maintenance operations. I live here with my wife and our two-year-old daughter. Outside of work and school, I am into coffee and cooking. Living in Japan has changed how I cook quite a bit. We also travel when we can, which is easier from where we are than most places.
 
@@ -31,11 +31,10 @@ I am looking to move into a role where analysis is the actual job: data analysis
 
 st.header("Academic Background")
 st.write("""
-I earned my Bachelor of Science in Business Analytics from Embry-Riddle
-Aeronautical University and am currently completing my master's degree in Data
-Science at Eastern University. My coursework has included machine learning,
-statistics, programming with Python, data visualization, and predictive
-analytics. Through my projects, I have gained experience with data cleaning,
+I earned my Bachelor of Science in Business Analytics (cum laude) from Embry-Riddle
+Aeronautical University and and my Master of Science in Data Science (GPA 3.867) from Eastern University. 
+My coursework has included machine learning, statistics, programming with Python, data visualization, 
+and predictive analytics. Through my projects, I have gained experience with data cleaning,
 exploratory data analysis, feature engineering, and model evaluation.
 """)
 
