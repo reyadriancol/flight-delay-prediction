@@ -36,7 +36,7 @@ st.set_page_config(
 # File paths
 # --------------------------------------------------
 APP_FOLDER = Path(__file__).resolve().parent.parent
-PHOTO_PATH = APP_FOLDER / "portfolio_pic.jpg"
+PHOTO_PATH = APP_FOLDER / "portfolio_pic.jpeg"
 
 
 # --------------------------------------------------
