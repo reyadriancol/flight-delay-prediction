@@ -18,7 +18,7 @@
 import streamlit as st
 
 st.title("Rey Colongon")
-st.subheader("MS in Data Science Candidate — Eastern University")
+st.subheader("Data & Analytics")
 st.divider()
 
 st.header("About Me")
